@@ -10,6 +10,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: SCARAMUZZINO Fabio Group D
 
 ## Fork urls
-- `contributor-1`: [quotes-BELHASSEN-D](url-1)
+- `contributor-1`: [quotes-BELHASSEN-D]([url-1](https://github.com/Moieuh/quotes-BELHASSEN-D))
 - `contributor-2`: [quotes-GEORGI-D](url-2)
 - `contributor-3`: [quotes-SCARAMUZZINO-D](url-3)
